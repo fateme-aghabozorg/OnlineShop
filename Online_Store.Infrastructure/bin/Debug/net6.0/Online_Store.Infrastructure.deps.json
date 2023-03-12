@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "Online_Store.Infrastructure/1.0.0": {
+        "runtime": {
+          "Online_Store.Infrastructure.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Online_Store.Infrastructure/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

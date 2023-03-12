@@ -1,0 +1,17 @@
+C:\Users\computer engineer\Desktop\Online_Store\Online_Store.Application\bin\Debug\net6.0\Online_Store.Application.deps.json
+C:\Users\computer engineer\Desktop\Online_Store\Online_Store.Application\bin\Debug\net6.0\Online_Store.Application.dll
+C:\Users\computer engineer\Desktop\Online_Store\Online_Store.Application\bin\Debug\net6.0\Online_Store.Application.pdb
+C:\Users\computer engineer\Desktop\Online_Store\Online_Store.Application\bin\Debug\net6.0\Online_Store.Domain.dll
+C:\Users\computer engineer\Desktop\Online_Store\Online_Store.Application\bin\Debug\net6.0\Online_Store.Domain.pdb
+C:\Users\computer engineer\Desktop\Online_Store\Online_Store.Application\obj\Debug\net6.0\Online_Store.Application.csproj.AssemblyReference.cache
+C:\Users\computer engineer\Desktop\Online_Store\Online_Store.Application\obj\Debug\net6.0\Online_Store.Application.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\computer engineer\Desktop\Online_Store\Online_Store.Application\obj\Debug\net6.0\Online_Store.Application.AssemblyInfoInputs.cache
+C:\Users\computer engineer\Desktop\Online_Store\Online_Store.Application\obj\Debug\net6.0\Online_Store.Application.AssemblyInfo.cs
+C:\Users\computer engineer\Desktop\Online_Store\Online_Store.Application\obj\Debug\net6.0\Online_Store.Application.csproj.CoreCompileInputs.cache
+C:\Users\computer engineer\Desktop\Online_Store\Online_Store.Application\obj\Debug\net6.0\Online_Store.Application.csproj.CopyComplete
+C:\Users\computer engineer\Desktop\Online_Store\Online_Store.Application\obj\Debug\net6.0\Online_Store.Application.dll
+C:\Users\computer engineer\Desktop\Online_Store\Online_Store.Application\obj\Debug\net6.0\refint\Online_Store.Application.dll
+C:\Users\computer engineer\Desktop\Online_Store\Online_Store.Application\obj\Debug\net6.0\Online_Store.Application.pdb
+C:\Users\computer engineer\Desktop\Online_Store\Online_Store.Application\obj\Debug\net6.0\ref\Online_Store.Application.dll
+C:\Users\computer engineer\Desktop\Online_Store\Online_Store.Application\bin\Debug\net6.0\Online_Store.Common.dll
+C:\Users\computer engineer\Desktop\Online_Store\Online_Store.Application\bin\Debug\net6.0\Online_Store.Common.pdb
